@@ -1,6 +1,6 @@
 # Hotel-Management-System
 
-Design a straightforward online platform for reserving hotel accommodations equipped with a user-friendly content management system. Guests can conveniently select and book rooms for their desired dates, while administrators possess the authority to modify, enhance, or remove room specifications. Admins retain complete control over all aspects of the application's management.
+Designed a straightforward online platform for reserving hotel accommodations equipped with a user-friendly content management system. Guests can conveniently select and book rooms for their desired dates, while administrators possess the authority to modify, enhance, or remove room specifications. Admins retain complete control over all aspects of the application's management.
 
 ##Tech Stack
 -HTML
